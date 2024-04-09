@@ -6,8 +6,8 @@
       "type": "lldb",
       "request": "launch",
       "args": [],
-      "cwd": "/Users/javierorellana/VS Code/Octahedron",
-      "program": "/Users/javierorellana/VS Code/Octahedron/build/Debug/outDebug"
+      "cwd": "/Users/javierorellana/Developer/VScode/Octahedron",
+      "program": "/Users/javierorellana/Developer/VScode/Octahedron/build/Debug/outDebug"
     }
   ]
 }
