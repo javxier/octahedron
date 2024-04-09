@@ -8,7 +8,6 @@ GLfloat xRotated, yRotated, zRotated;
 // Octahedron
 void displayOctahedron(void)
 {
-
     glMatrixMode(GL_MODELVIEW);
     // clear the drawing buffer.
     glClear(GL_COLOR_BUFFER_BIT);
@@ -54,7 +53,6 @@ void reshapeOctahedron(int x, int y)
 
 void idleOctahedron(void)
 {
- 
      yRotated += 0.3;
      
     displayOctahedron();
